@@ -24,11 +24,11 @@ Look for opportunities to prefactor the code to make the implementation easier. 
 
 ### 3. Draft vertical slices
 
-Break the plan into **tracer bullet** issues. Each issue is a thin vertical slice that cuts through ALL integration layers end-to-end, NOT a horizontal slice of one layer.
+Break the plan into **tracer bullet** issues.
 
 <vertical-slice-rules>
 
-- Each slice delivers a narrow but COMPLETE path through every layer (schema, API, UI, tests)
+- Each slice cuts a narrow but COMPLETE path through every layer (schema, API, UI, tests) — vertical, NOT a horizontal slice of one layer
 - A completed slice is demoable or verifiable on its own
 - Any prefactoring should be done first
 
