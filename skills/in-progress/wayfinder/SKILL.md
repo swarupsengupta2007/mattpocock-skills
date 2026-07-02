@@ -104,7 +104,9 @@ The user may run unblocked tickets in parallel, so expect other sessions to be e
 
 ## Handoff
 
-End every session with a **Next steps** block the user can copy-paste. Two cases:
+**Recheck your claims first.** Before you show the frontier, reread every assertion you're about to hand off — the resolution answer, the Decisions-so-far line you appended, any facts later tickets will depend on — against the actual tracker state and the assets you linked, and fix whatever doesn't hold. The available sessions and the new frontier the human is about to act on are only as sound as the claims underneath them.
+
+Then end every session with a **Next steps** block the user can copy-paste. Two cases:
 
 **Open tickets remain.** Query the map for the currently-unblocked children, then give two copy-paste options: a bare command for one session (you pick the next ticket), and one pinned command per unblocked ticket for running them in parallel. Paste one line per fresh window — opening one, some, or all of them.
 
